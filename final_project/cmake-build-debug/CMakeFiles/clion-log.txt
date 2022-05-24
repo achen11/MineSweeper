@@ -1,0 +1,48 @@
+"C:\Program Files\JetBrains\CLion 2021.2.3\bin\cmake\win\bin\cmake.exe" -DCMAKE_BUILD_TYPE=Debug -DCMAKE_DEPENDS_USE_COMPILER=FALSE -G "CodeBlocks - MinGW Makefiles" "C:\Users\Amy Chen\Downloads\working_final_project\final_project"
+-- The CXX compiler identification is GNU 8.1.0
+-- Detecting CXX compiler ABI info
+-- Detecting CXX compiler ABI info - done
+-- Check for working CXX compiler: C:/MinGW/bin/g++.exe - skipped
+-- Detecting CXX compile features
+-- Detecting CXX compile features - done
+-- Using vendored Catch2 library (C:/Users/Amy Chen/Downloads/working_final_project/final_project/.cs211/lib/catch)
+-- Using vendored Ge211 library (C:/Users/Amy Chen/Downloads/working_final_project/final_project/.cs211/lib/ge211)
+-- Looking for C++ include pthread.h
+-- Looking for C++ include pthread.h - found
+-- Performing Test CMAKE_HAVE_LIBC_PTHREAD
+-- Performing Test CMAKE_HAVE_LIBC_PTHREAD - Success
+-- Found Threads: TRUE  
+-- Found SDL2: mingw32;-mwindows;C:/MinGW/lib/libSDL2.dll.a  
+-- Found SDL2_image: C:/MinGW/lib/libSDL2_image.dll.a (found version "..") 
+-- Found SDL2_mixer: C:/MinGW/lib/libSDL2_mixer.dll.a (found version "..") 
+-- Found SDL2_ttf: C:/MinGW/lib/libSDL2_ttf.dll.a (found version "..") 
+-- Could NOT find Doxygen (missing: DOXYGEN_EXECUTABLE) 
+-- Performing Test CXXFLAG_WALL_OKAY
+-- Performing Test CXXFLAG_WALL_OKAY - Success
+-- Performing Test CXXFLAG_WCAST_ALIGN_STRICT_OKAY
+-- Performing Test CXXFLAG_WCAST_ALIGN_STRICT_OKAY - Success
+-- Performing Test CXXFLAG_WCAST_QUAL_OKAY
+-- Performing Test CXXFLAG_WCAST_QUAL_OKAY - Success
+-- Performing Test CXXFLAG_WDANGLING_ELSE_OKAY
+-- Performing Test CXXFLAG_WDANGLING_ELSE_OKAY - Success
+-- Performing Test CXXFLAG_WNULL_DEREFERENCE_OKAY
+-- Performing Test CXXFLAG_WNULL_DEREFERENCE_OKAY - Success
+-- Performing Test CXXFLAG_WTYPE_LIMITS_OKAY
+-- Performing Test CXXFLAG_WTYPE_LIMITS_OKAY - Success
+-- Performing Test CXXFLAG_WWRITE_STRINGS_OKAY
+-- Performing Test CXXFLAG_WWRITE_STRINGS_OKAY - Success
+-- Performing Test CXXFLAG_WERROR_BOOL_COMPARE_OKAY
+-- Performing Test CXXFLAG_WERROR_BOOL_COMPARE_OKAY - Success
+-- Performing Test CXXFLAG_WERROR_BOOL_OPERATION_OKAY
+-- Performing Test CXXFLAG_WERROR_BOOL_OPERATION_OKAY - Success
+-- Performing Test CXXFLAG_WERROR_INT_TO_POINTER_CAST_OKAY
+-- Performing Test CXXFLAG_WERROR_INT_TO_POINTER_CAST_OKAY - Success
+-- Performing Test CXXFLAG_WERROR_RETURN_TYPE_OKAY
+-- Performing Test CXXFLAG_WERROR_RETURN_TYPE_OKAY - Success
+-- Performing Test CXXFLAG_WERROR_UNINITIALIZED_OKAY
+-- Performing Test CXXFLAG_WERROR_UNINITIALIZED_OKAY - Success
+-- Performing Test LDFLAG_FSANITIZE_UNDEFINED_OKAY
+-- Performing Test LDFLAG_FSANITIZE_UNDEFINED_OKAY - Failed
+-- Configuring done
+-- Generating done
+-- Build files have been written to: C:/Users/Amy Chen/Downloads/working_final_project/final_project/cmake-build-debug
